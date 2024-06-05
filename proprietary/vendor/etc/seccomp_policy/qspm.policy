@@ -79,4 +79,3 @@ getegid32: 1
 gettimeofday: 1
 getgroups32: 1
 gettimeofday: 1
-renameat2: 1
